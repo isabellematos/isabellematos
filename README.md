@@ -1,20 +1,21 @@
-  
+## Hi everyone! I'm Isabelle <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<img align='right' src="https://c.tenor.com/NqURjAGH6GYAAAAd/cat-code.gif" width="250">
 
-## Hi everyone! I'm Isabelle <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22"/>
 
 Welcome to my Github profile!
 - :cherry_blossom: I'm 16 years old.
 
-- 🏢 I'm currently studying at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a>.
+- 🏢 I'm currently studying System Analysis and Development at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a>.
 
 - :space_invader: I'm learning about **Java, CSS, HTML, JavaScript**.
 
 - :purple_heart: Cats, coffe and book lover!
 
 
-> “It's not a faith in technology. It's faith in people.” - Steve Jobs
 
-<hr>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+ 
+
 
 ## Technologies & Tools
   <a href="https://github.com/isabellematos">
@@ -25,7 +26,6 @@ Welcome to my Github profile!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" height="35px"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35px" height="35px" />
 
-<hr>
 
 ## Get in touch
 
@@ -39,11 +39,12 @@ Welcome to my Github profile!
 </div>
 
 
-<div>
+<div align='center'>
 <a href="https://github.com/isabellematos">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellematos&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabellematos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<hr>
 
 
 
