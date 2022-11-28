@@ -6,7 +6,7 @@ Welcome to my Github profile!
 
 - 🏢 I'm currently studying System Analysis and Development at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a>.
 
-- :space_invader: I'm learning about **Java, CSS, HTML, JavaScript**.
+- :space_invader: I'm learning about **JavaScript, CSS, HTML, Kotlin and MySQL**.
 
 - :purple_heart: Cats, coffe and book lover!
 
