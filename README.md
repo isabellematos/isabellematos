@@ -4,11 +4,11 @@
 
 Welcome to my Github profile!
 
-- 🏢 I'm currently studying System Analysis and Development at <a href="https://jandira.sp.senai.br" target="_blank">Senai Jandira</a>.
+- 🏢 I'm currently studying Internet Systems at <a href="https://www.sp.senac.br/r" target="_blank">Senac Santo Amaro</a>.
 
-- :space_invader: I'm learning about **JavaScript, CSS, HTML, Kotlin and MySQL**.
+- :space_invader: I'm learning about **JavaScript, CSS, HTML, PHP and MySQL**.
 
-- :purple_heart: Cats, coffe and book lover!
+- :purple_heart: Cats, coffee and book lover!
 
 
 
@@ -31,7 +31,6 @@ Welcome to my Github profile!
 
 <div align="center">
 <a href="https://github.com/isabellematos">
-  <a href="https://instagram.com/bellee.matos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isabellevitoria131@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabelle-matos-8a8504241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <hr>
